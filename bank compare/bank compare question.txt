@@ -1,0 +1,17 @@
+There are two banks – Bank A and Bank B. Their interest rates vary. You have received offers from both banks in terms of the annual rate of interest, tenure, and variations of the rate of interest over the entire tenure.You have to choose the offer which costs you least interest and reject the other. Do the computation and make a wise choice.
+The loan repayment happens at a monthly frequency and Equated Monthly Installment (EMI) is calculated using the formula given below :EMI = loanAmount * monthlyInterestRate / ( 1 – 1 / (1 + monthlyInterestRate)^(numberOfYears * 12))
+
+Sample Input
+10000
+20
+3
+5 9.5
+10 9.6
+5 8.5
+3
+10 6.9
+5 8.5
+5 7.9
+
+Sample Output
+Bank B
