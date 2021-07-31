@@ -1,0 +1,22 @@
+Of late, smuggling has increased many fold and as Chief of the Coast Guard,
+you are responsible for intercepting the smuggling vessels and nullify them. You have stationed several smart, high speed boats in the sea. The entire sea
+under your control can be divided into a rectangular grid of 1 km by 1 km squares. Due to a design flaw in the boats, they can move only in horizontal or
+vertical directions (EW or NS) (they cannot move diagonally, in particular).
+Of course, no two boats are stationed in the same gridsquare.
+The boats can reach an adjacent grid square (horizontally or vertically) in
+one minute. Every grid square that can be reached by one boat faster than it
+can be reached by anyother boat is said to be controlled by that boat. If a
+grid square may be reached by at least one more boat in the same time as the fastest boat, it is said to be uncontrolled. It is in your interest to minimize the number of grid squares that are uncontrolled.
+
+In the figure above we are considering a grid of 3 rows and four columns. The
+bottom left corner square is numbered (0,0), and the top right corner is numbered (3,2). Two boats are in positions (2,0) and (0,2). The four shaded squares can be reached in equal (minimum) time by both boats, and are hence
+uncontrolled.
+Given the position of the boats, write a program to identify the number of grid squares that are uncontrolled.
+
+
+Sample Input
+3,4,2
+2,0
+0,2
+Sample Output
+4
