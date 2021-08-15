@@ -1,0 +1,13 @@
+The task is to find the length of the longest subsequence in a given array of integers such that all elements of the subsequence are sorted in strictly descending order. This is called the Longest Deccreasing Subsequence (LDS) problem.
+
+Sample Input
+5
+2 6 1 5 4
+Sample Output
+3
+
+Input Text
+5
+16 3 14 16 2 
+Output Text
+3
