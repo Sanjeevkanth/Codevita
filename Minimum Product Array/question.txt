@@ -1,0 +1,9 @@
+The task is to find the minimum sum of Products of two arrays of the same size, given that k modifications are allowed on the first array. In each modification, one array element of the first array can either be increased or decreased by 2.
+Note- the product sum is Summation (A[i]*B[i]) for all i from 1 to n where n is the size of both arrays
+
+Sample Input
+3 5
+1 2 -3
+-2 3 -5
+Sample Output
+-31
