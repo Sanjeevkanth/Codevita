@@ -1,0 +1,21 @@
+Given an 2D array array , sort each row of the 2D array in ascending order.
+
+Sample Input
+3
+1 3 2
+5 4 6
+8 7 9
+Sample Output
+1 2 3
+4 5 6
+7 8 9
+
+Input Text
+3
+2 3 9
+4 3 7
+4 4 4
+Output Text
+2 3 9
+3 4 7
+4 4 4
