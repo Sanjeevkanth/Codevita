@@ -1,0 +1,22 @@
+The Math Frog lives In the Geometry Pond along with its mate. The Geometry Pond is a marshy piece of water with many mounds in it, , separated by stretches of water. The pond may be approximated by a square grid, with each grid square
+being either a mound or water.
+It being Sunday, the Math Frog would like to rest from its work of capturing
+flies and spend it with its mate, which is on a known square. The Math frog is
+able to jump only horizontally or vertically. It can jump over any sheet of
+water but it will not jump over a mound. Hence, it can only jump from one mound to a horizontally or vertically adjacent mound (possibly separated by water) in one jump. Note that even when two adjacent squares are mounds, a jump must be made to go from one to the other. The mounds are shown as a n x n matrix with 1 showing a mound, and 0, water. For example, the following pond will be represented by the matrix given below,
+
+
+Please help the frog jump from its current position to the position of its mate in a minimum number of jumps. You may assume that it is always possible to reach its mate.
+
+
+Sample Input
+5 
+1,0,1,0,1 
+0,0,0,0,0 
+1,0,1,0,1 
+1,0,0,0,1 
+0,0,1,0,0 
+1,1 
+4,5
+Sample Output
+3
