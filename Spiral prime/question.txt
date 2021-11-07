@@ -1,0 +1,9 @@
+The prime numbers are written in a spiral form starting at (0,0) and moving as shown in the diagram below.
+
+Sample Input
+2
+1 0
+0 1
+Sample Output
+3
+7

@@ -1,0 +1,12 @@
+The parcel section  of the Head Post Oﬃce is in a mess. The parcels that need to be loaded to the vans have been lined up in a row in an arbitr order of weights. The Head Post Master wants them to be sorted in the increasing
+order of the weights of the parcels, with one exception. wants the heaviest
+(and presumably the most valuable) parcel kept nearest his oﬃce.
+You and your friend try to sort these boxes and you decide to sort them by
+interchanging two boxes at a time. Such an interchange needs eff equals to the product of the weights of the twoboxes. The objective is to reposition the boxes as required with minimum effort.
+
+
+Sample Input
+5 2
+20 50 30 80 70
+Sample Output
+3600
