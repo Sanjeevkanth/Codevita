@@ -1,0 +1,24 @@
+Chennai-based Dr. K. Vaseegaran spends day and night in constructing a human-android, and after many trials and errors does succeed in creating one in his own image. His girlfriend, Sana, decides to name him Chitti, and is very impressed by the way he not only rescues her from goons on a train, but also a woman from a fiery building; delivers a baby in the maternal ward of a hospital; and instructs mosquito's to keep away from her. Impressed by these turn of events, Vaseegaran decides to make Chitti more human by letting him feel emotions - this results in the latter not only rebelling but also getting obsessed with Sana and embarrassing the couple on the occasion of their formal engagement. Furious at these turn of events, Vaseegaran terminates Chitti and has it disposed off. But Dr. Bohra, who expects to net millions by such an android, reconstructs Chitti with a different chip - with results that will enable it to assist him to re-produce more such androids - as well as give the now malevolent, virtually indestructible and unstoppable Chitti the freedom to pursue Sana and re-populate Earth with a new species - Robo-Sapiens!!
+Now Chitti has kidnapped Sana, and Dr. Vase has in a mission to help Sana and also to find a way to stop Chitti from destroying everything, he somehow enters Chitti's headquarters disguised as a robot. But Chitti sensed unusual activities, and made them stand in a square grid. He asked the robots to rotate their heads. But still to make sure he asked them to revolve completely around the center. But somehow Vasegaran escaped from the group and reached the top of the tower. He did find out a method to destroy all the robots. After they stop rotating he will capture the robots positions, and use that positions to destroy them. Each robots will have a unique integer id, help Dr. Vaseegaran to find the exact order they stop rotating.
+Note: They revolve in anticlockwise direction
+
+Sample Input
+3 1
+1 2 3
+4 5 6
+7 8 9
+Sample Output
+2 3 6 
+1 5 9 
+4 7 8 
+
+Input Text
+3 20
+8 22 54
+12 93 24
+87 12 4
+
+Output Text
+4 12 87
+24 93 12
+54 22 8

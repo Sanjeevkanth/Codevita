@@ -1,0 +1,12 @@
+From the sequence 1 3 1 4 5 2 we can exract the subsequences 1 4 5 2, 1 32 and 342.these list are called “up and down sequences”,as all the numbers to left of the maimum value(the up part) are strictly ascending order ,and those to the right of the maximum are in descending order.(the down part) .note there must be a atleast one number to the left of the Maximum value (the up part)and atleast one number to the right of the subsequences(the down part)
+A maximal up and down subsequences is one with the maximal length. Note that  there may be more than one maximal up and down subsequences in a given sequence. In the sequence 1 4 3 6 2 1 , the two subsequences 1 4 3 2 1 and 1 4 6 2 1 are both maximal up and down subsequences.
+A maximal subsequences like 1 4 3 2 1 may have many up and down subsequences of its own which have the same maximal value(4).these are 1 4al value(4).these are 1 4 3; 1 4 2;1 4 1;1 4 3 2; 1 4 3 1; 1 4 2 1;an 1 4 3 2 1 . this include the full subsequences also.
+A similar enumeration shows that 1 4 6 2 1 has 9 up and down subsequences that have 6 as the maximal value.
+Given a list of numbers,write a program to count the no of up and down subsequences with the same maximal value that could be formed from any one maximal subsequence.
+
+
+Sample Input
+4
+-1 2 3 4
+Sample Output
+0

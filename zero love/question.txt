@@ -1,0 +1,7 @@
+Given an array of both positive and negative numbers, the task is to find out the maximum length of the subarray whose sum is closest to 0.
+
+Sample Input
+4
+-1 2 2 -3
+Sample Output
+4
