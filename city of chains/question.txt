@@ -1,0 +1,11 @@
+Due to a virus outbreak, the world almost came to an end. Top cities falled, person ater perosn kep dying, but somehow a group of people somehow managed to escape the crisis. But there was a guy called Victor, who took advantage of the situation and grouped some alliance with him and kept eveyone as slaves. The city is called as the CIty of Chains as everyone is chained to a metallic ball to specify that they are a slave. In this city, they prefer unorthodox way of mathmaking. They take the list of peoples names, and which ever two names amongs them has the greatest longest common subsequence amongst them will be matched up. Help Victor find the two people to match up.
+
+Sample Input
+3
+aabbcc
+abc
+a
+Sample Output
+aabbcc
+abc
+Is Active

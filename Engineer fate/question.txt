@@ -1,0 +1,12 @@
+Rank of a given word is basically finding out the position of the word when all possible words have been formed using all the letters of this word exactly once and arranged in alphabetical order as in the case of a dictionary.
+Victor is working at a college, where he is working as a cleck. He is overqualified for his position, but what to do, this is how many engineering students end up. So he plays some games in his free time. He takes an attendance sheet of a class and tries to find out the name which has the least rank amongst them.
+Help Victor complete his game.
+
+
+Sample Input
+2
+acfb
+zzz
+
+Sample Output
+zzz

@@ -1,0 +1,10 @@
+Raj is a personal assistant to a CEO of a huge company. Since, the CEO has a lot of instructions, Raj notes what ever the CEO says in short hand. The way he does this is quite simple actually and is clearly shown in the sample input. Your task is to take the short hand text and convert it to its original form.
+Another example is, 2a5d - adddddaddddd
+Lets see if you are up to the task!
+
+
+Sample Input
+3a6c2d
+
+Sample Output
+acddcddcddcddcddcddacddcddcddcddcddcddacddcddcddcddcddcdd

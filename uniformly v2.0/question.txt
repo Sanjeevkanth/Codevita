@@ -1,0 +1,8 @@
+A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar.
+Victor being so obbsessed about these palindromes, he likes removing characters from a word and making them a palindrome. But sometimes he makes some minor mistakes wich leads him to not getting the longest possible palindrome. So help Victor to find out the minimum number of characters that has to be removed from a given string so that it can be made a palindrome.
+
+Sample Input
+tervreat
+
+Sample Output
+1

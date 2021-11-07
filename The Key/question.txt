@@ -1,0 +1,8 @@
+You noticed the owner of a locker entering the last digit of the key in a number based locker. You are now given a string with N characters. You need to find the number of keys that can possibly unlock the locker. You know for sure that the last digit was divisible by 2. Find the number of possible substrings.
+
+Sample Input
+4
+1234
+
+Sample Output
+6

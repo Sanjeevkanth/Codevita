@@ -1,0 +1,23 @@
+Sheldon, who has a weird sense of fun suggests a new game to Leonard while they were travelling in the car. Leonard being not so brainy give you the task. The game has the following rules:
+1. You will be provided a string of length N.
+2. After this you'll be provided with T strings each of length M.
+3. You need to find the length of the shortest prefix.
+The shortest prefix is nothing but the minimum index of elements in the string of length N that need to be chosen inorder to form the string of length M. For a better understanding of the question look at the sample test case.
+Help Leonard!!!
+
+Sample Input
+9
+arrayhead
+5
+arya
+harry
+ray
+r
+areahydra
+
+Sample Output
+5
+6
+5
+2
+9

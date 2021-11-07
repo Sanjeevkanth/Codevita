@@ -1,0 +1,9 @@
+A palindrome is a word, number, phrase, or other sequence of characters which reads the same backward as forward, such as madam, racecar.
+Victor beign a person obsessive person with palindromes, he iscapable of taking out longest palindromic subsequence from a string, maintaining the same order of thee characters. Now since he is aged, he is unable to find the palindromic subsequence with the fullest efficiency. So help Victor to find the longest palindromic subsequence available in a given string.
+
+
+Sample Input
+ATKKERLVRZEMT
+
+Sample Output
+7

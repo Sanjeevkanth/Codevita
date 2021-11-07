@@ -1,0 +1,19 @@
+You are provided with a string with only < and >. If > is present the character after it on the right is deleted. If < is present then the character before it on the left is deleted.
+A sequence is said to be a correct deletion pointer if after the operation mentioned above results in sequence with only one character.
+Eg: < < or < or > or > > are correct pointers.
+You are allowed to delete any character in the sequence get the answer. You need to print the least number of deletions that you will perform to get the answer.
+Eg: N=3 and <>>, we need to induce minimum of one deletion to get the answer. We will delete < here. Then we will have >> which reduces itself to >.
+
+
+Sample Input
+3
+2
+<>
+3
+><<
+1
+>
+Sample Output
+1
+0
+0

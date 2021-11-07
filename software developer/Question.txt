@@ -1,0 +1,14 @@
+Victor is working as a junior software developer in a startup. He was assigned his first project, an application they are building for a school. The team got separate tasks, each person will be working on creating a particular functionality associated with the tool.
+Victor has been assigned the task of writing down a piece of code for taking the student names and sort them in terms of the length of their names. Help Victor complete his work.
+Note: If multiple names have the same length, then preserve the order in which they are fed
+
+Sample Input
+3
+Victor
+Dhoni
+Calvin
+
+Sample Output
+Dhoni
+Victor
+Calvin

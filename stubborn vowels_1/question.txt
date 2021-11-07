@@ -1,0 +1,9 @@
+Victor loves playing word games, where he thought of playing a word game today, which involved the following
+In English alphabets there are two types of words, vowels, and consonants. You are writing a program to reverse a given string, but the vowels are stubborn to move away from their position. So given a string where the vowels are stubborn, print what will be the word if the entire word is reversed except for the vowels.
+
+
+Sample Input
+relearnpro
+
+Sample Output
+rnprelearo

@@ -1,0 +1,25 @@
+You are provided with two sequences with N,M strings in each. Your task is very simple, you need to match the strings in N with that of M and generate a series of strings. Given any number P you need to figure out the combination that is matched.
+Example: {q,w,e,r,t,y} and {a,s,d} are the sequences you are given. In this case N=6 and M=3. The solution for 1-10 as P is shown:
+1 - qa
+2 - ws
+3 - ed
+4 - ra
+5 - ts
+6 - yd
+7 - qa
+8 - ws
+9 - ed
+10 -ra
+
+
+Sample Input
+6 3
+q w e r t y
+a s d
+2
+5
+7
+
+Sample Output
+ts
+qa

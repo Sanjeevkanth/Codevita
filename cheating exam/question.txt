@@ -1,0 +1,24 @@
+You know Galois is a very smart student. He dislikes History exams and you know
+that he will find a smart way to cheat. You are the supervisor in the exam hall
+for his History exam and you recover from him a sheet of paper that contains
+several lines that appear to be in a language not even remotely resembling
+English even though the alphabets used are from the English language. The
+The principal will not believe you unless you establish beyond doubt, that the
+paper recovered from him contains an answer to one of the questions. You show
+the paper to the head of the Computer Science department and he says that it is a
+well-known crypto method and agrees to decrypt the same for you. It turns out
+that Galois did the following,
+He writes the original message in a zig zag pattern and reads of the lines
+horizontally. For example, IAMSMARTERTHANYOU is written first as and encoded as IEUATROMRTYSAHNMA
+
+Given the number of rows used by Galois to encode the text and the encoded text, write a program to recover the original text. Note that if the length of the
+string is not adequate to complete the pattern, Galois pads it with the character "X" to make up the length. These must not appear in the output.
+
+
+
+Sample Input
+5 
+CCEAEOSNDDEYUEHOT
+
+Sample Output
+CANYOUDECODETHESE

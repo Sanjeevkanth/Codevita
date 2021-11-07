@@ -1,0 +1,9 @@
+Victor is working as a cop in an airport. He got the info from the intelligence that a person with a particular name is murder suspect. But the person is a bit intelligent, so he might rotate his name and come up with a different name. But he only rotates the name, never changes the order or removes a particular character. So victor is finding someone suspicious, so help victor to check whether that person is a possible suspect or not.
+
+
+Sample Input
+victor
+torvic
+
+Sample Output
+YES
